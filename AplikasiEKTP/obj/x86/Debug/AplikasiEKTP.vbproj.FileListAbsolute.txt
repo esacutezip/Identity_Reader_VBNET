@@ -1,0 +1,13 @@
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\bin\Debug\AplikasiEKTP.exe
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\bin\Debug\AplikasiEKTP.pdb
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\bin\Debug\AplikasiEKTP.xml
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\obj\x86\Debug\AplikasiEKTP.exe
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\obj\x86\Debug\AplikasiEKTP.xml
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\obj\x86\Debug\AplikasiEKTP.pdb
+C:\aplikasi2\2\AplikasiEKTP\AplikasiEKTP\bin\Debug\AplikasiEKTP.exe.config
